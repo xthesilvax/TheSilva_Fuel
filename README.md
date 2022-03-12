@@ -1,4 +1,4 @@
-# Script for Stocked Vehicle with Command
+# TheSilva_Fuel 
 
 ## Installation
 Just put it in the base and start the script in the **"server.cfg"** file.
@@ -30,7 +30,11 @@ Open the **"config/main.lua"** file and change what you need!
 
 ## Change Log
 ### v1.0 
-- Added /fuel Command
+- Added /fuel command
+- Added whitelist for steamIDs and IPs
+- Enable/Disable Notifications
+- Enable/Disable whitelist
+- Translate the notifications in the "config/main.lua" file
 
 # Made with ❤ by [TheSilva#4495](https://github.com/thesilvaofficial)
 
