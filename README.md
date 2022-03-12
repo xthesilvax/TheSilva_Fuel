@@ -1,5 +1,8 @@
 # TheSilva_Fuel 
 
+# Dependencies
+[LegacyFuel](https://github.com/InZidiuZ/LegacyFuel)
+
 ## Installation
 Just put it in the base and start the script in the **"server.cfg"** file.
 ```
