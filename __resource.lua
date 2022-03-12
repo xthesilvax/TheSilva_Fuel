@@ -11,4 +11,9 @@ client_scripts {
 	'config/main.lua' 
 }
 
-dependency "LegacyFuel"
+dependency 'LegacyFuel'
+
+name 'TheSilva_Fuel'
+version '1.0'
+description 'Fuel Command.'
+author 'TheSilvaDev'
